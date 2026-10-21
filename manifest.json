@@ -1,0 +1,8 @@
+{
+  "id": "experiments",
+  "name": "Experiments",
+  "description": "Unlock Discord Experiments and developer-only settings on mobile. Use at your own risk — experiments can break the client.",
+  "authors": [{ "name": "kmljkjj", "id": "0" }],
+  "version": "1.0.0",
+  "main": "index.js"
+}
